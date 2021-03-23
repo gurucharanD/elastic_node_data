@@ -1,0 +1,8 @@
+{
+    "require": [
+        "./node_modules/ts-node/register",
+        "./node_modules/source-map-support/register"
+    ],
+    "package": "./package.json",
+    "timeout": 500000
+}

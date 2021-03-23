@@ -1,0 +1,818 @@
+[
+  {
+    "id": "RUA2427631",
+    "Name": "GangarapuRamesh",
+    "Father/Husband": "MankuMarsukolla",
+    "Address": "00",
+    "Age": 29,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2321149",
+    "Name": "NareshBoyini",
+    "Father/Husband": "Lacham",
+    "Address": "0000",
+    "Age": 31,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1461847",
+    "Name": "PremalaMyakala",
+    "Father/Husband": "RameshMyakala",
+    "Address": "0-00",
+    "Age": 34,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2714749",
+    "Name": "AlekhyaVarmaAmbadi",
+    "Father/Husband": "SathannaAmbadi",
+    "Address": 1,
+    "Age": 21,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2156651",
+    "Name": "RajaiahEmbadi",
+    "Father/Husband": "BhumaiahEmbadi",
+    "Address": "1-0",
+    "Age": 64,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2840486",
+    "Name": "MahmadAbdullakhan",
+    "Father/Husband": "BajidKhan",
+    "Address": "1-1",
+    "Age": 53,
+    "Gender": "MALE"
+  },
+  {
+    "id": "MTF1330471",
+    "Name": "MahmadTajoddin",
+    "Father/Husband": "AbdulKhan",
+    "Address": "1-1",
+    "Age": 35,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1861780",
+    "Name": "ShaikNayeem",
+    "Father/Husband": "ShaikAbdul",
+    "Address": "1-1",
+    "Age": 34,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA0238378",
+    "Name": "M.Di.SadikKhan",
+    "Father/Husband": "AbdulKhan",
+    "Address": "1-1",
+    "Age": 33,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA0238386",
+    "Name": "TodsamChinnajangu",
+    "Father/Husband": "Sungu",
+    "Address": "1-1",
+    "Age": 30,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA0777193",
+    "Name": "MohdImranKhan",
+    "Father/Husband": "AbdullaKhan",
+    "Address": "1-1",
+    "Age": 29,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2320943",
+    "Name": "RaheemShaik",
+    "Father/Husband": "Abdul",
+    "Address": "1-1",
+    "Age": 25,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2312254",
+    "Name": "KareemShaik",
+    "Father/Husband": "AbdulShaik",
+    "Address": "1-1",
+    "Age": 23,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1121086",
+    "Name": "AkhilaSulthanaMohammad",
+    "Father/Husband": "SadikKhanMohammad",
+    "Address": "1-01",
+    "Age": 27,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "MTF1330323",
+    "Name": "KumabalaRajanna",
+    "Father/Husband": "Posham",
+    "Address": "1-1/1",
+    "Age": 48,
+    "Gender": "MALE"
+  },
+  {
+    "id": "MTF1330299",
+    "Name": "KumabalaDeopal",
+    "Father/Husband": "Posham",
+    "Address": "1-1/A",
+    "Age": 44,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2839686",
+    "Name": "ShekShabeer",
+    "Father/Husband": "ShekMadar",
+    "Address": "1-2",
+    "Age": 73,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2840551",
+    "Name": "JadiLasmava",
+    "Father/Husband": "Bhomajah",
+    "Address": "",
+    "Age": "",
+    "Gender": ""
+  },
+  {
+    "id": "RUA2839835",
+    "Name": "HameedaBegam",
+    "Father/Husband": "Shabeer",
+    "Address": "1-2",
+    "Age": 68,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA0238394",
+    "Name": "S.Kay.Yusuf",
+    "Father/Husband": "Shabbir",
+    "Address": "1-2",
+    "Age": 41,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA0238402",
+    "Name": "S.Kay.SaharBagum",
+    "Father/Husband": "Yusuf",
+    "Address": "1-2",
+    "Age": 36,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA0253914",
+    "Name": "Ace.Kay.Isak",
+    "Father/Husband": "Shabbir",
+    "Address": "1-2",
+    "Age": 31,
+    "Gender": "MALE"
+  },
+  {
+    "id": "MTF3642246",
+    "Name": "ShekAbdul",
+    "Father/Husband": "Mirasab",
+    "Address": "1-02",
+    "Age": 54,
+    "Gender": "MALE"
+  },
+  {
+    "id": "MTF3642253",
+    "Name": "Shekmahbubi",
+    "Father/Husband": "Abdul",
+    "Address": "1-02",
+    "Age": 49,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA1011402",
+    "Name": "ShaikFathama",
+    "Father/Husband": "Naheem",
+    "Address": "1-02",
+    "Age": 28,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA1010214",
+    "Name": "SaddamHussen",
+    "Father/Husband": "Abdul",
+    "Address": "1-02",
+    "Age": 26,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1935220",
+    "Name": "ShahadhaBegamMdBegamMd",
+    "Father/Husband": "RaheemKhan",
+    "Address": "1-2/1",
+    "Age": 27,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2840346",
+    "Name": "ShekFaijoddin",
+    "Father/Husband": "Shaboddin",
+    "Address": "1-3",
+    "Age": 58,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1461938",
+    "Name": "ShekRiyajoddin",
+    "Father/Husband": "FaisoddinShek",
+    "Address": "1-3",
+    "Age": "",
+    "Gender": "MALE"
+  },
+  {
+    "id": "MTF3939246",
+    "Name": "ShahinaParvinMahmmad",
+    "Father/Husband": "FaiRojMahmmad",
+    "Address": "",
+    "Age": "",
+    "Gender": ""
+  },
+  {
+    "id": "RUA2310886",
+    "Name": "AdibaJabinMohammad",
+    "Father/Husband": "MustafaMohammad",
+    "Address": "1-6/1",
+    "Age": 23,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2427995",
+    "Name": "ShahisthaParveenMohammad",
+    "Father/Husband": "FaiziddinMohammad",
+    "Address": "1-5",
+    "Age": 24,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2488047",
+    "Name": "AnandChinthakuntala",
+    "Father/Husband": "RajannaChinthakuntala",
+    "Address": "1-6/3",
+    "Age": 35,
+    "Gender": "MALE"
+  },
+  {
+    "id": "MTF2646370",
+    "Name": "PalleRajamani",
+    "Father/Husband": "Rajam",
+    "Address": "1-7",
+    "Age": 63,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA1010230",
+    "Name": "AjmeeraVijayalaxmi",
+    "Father/Husband": "Laxman",
+    "Address": "1-09",
+    "Age": 42,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2840510",
+    "Name": "KatakamRaajaiah",
+    "Father/Husband": "Lacchaiah",
+    "Address": "1-13",
+    "Age": 98,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2840445",
+    "Name": "KatakamKishtaiah",
+    "Father/Husband": "Raajaiah",
+    "Address": "1-13",
+    "Age": 41,
+    "Gender": "MALE"
+  },
+  {
+    "id": "MTF3642030",
+    "Name": "KatukamJaiLakshmi",
+    "Father/Husband": "Kishtaiah",
+    "Address": "1-13",
+    "Age": 34,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA1623058",
+    "Name": "ShankarGoudGundeboyina",
+    "Father/Husband": "MallaGoud",
+    "Address": "1-13/1",
+    "Age": 44,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1623108",
+    "Name": "MangaGundeboyina",
+    "Father/Husband": "ShankarGoud",
+    "Address": "1-13/1",
+    "Age": 38,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2839355",
+    "Name": "EmulaNarsaiah",
+    "Father/Husband": "Pocaiah",
+    "Address": "1-14",
+    "Age": 58,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2839322",
+    "Name": "EmulaRajavva",
+    "Father/Husband": "Narsaiah",
+    "Address": "1-14",
+    "Age": 53,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "MTF3642055",
+    "Name": "PeramRayamallu",
+    "Father/Husband": "Bakkaiah",
+    "Address": "1-14/2",
+    "Age": 44,
+    "Gender": "MALE"
+  },
+  {
+    "id": "MTF1333376",
+    "Name": "PeramKalavathi",
+    "Father/Husband": "Raimallu",
+    "Address": "1-14/2",
+    "Age": 41,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA1461706",
+    "Name": "SwathiBollamMotherSugunaBollam",
+    "Father/Husband": "1-14/2",
+    "Address": 26,
+    "Age": "",
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "MTF1333343",
+    "Name": "MutheMallavva",
+    "Father/Husband": "Bheemaiah",
+    "Address": "1-14/5",
+    "Age": 66,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "MTF1331982",
+    "Name": "KotteRamesh",
+    "Father/Husband": "Raajaiah",
+    "Address": "1-14/5",
+    "Age": 44,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA0238436",
+    "Name": "SeepiriSettyBhumanna",
+    "Father/Husband": "Chinnanna",
+    "Address": "1-14/5",
+    "Age": 41,
+    "Gender": "MALE"
+  },
+  {
+    "id": "MTF1333434",
+    "Name": "KotteShankaravva",
+    "Father/Husband": "Ramesh",
+    "Address": "1-14/5",
+    "Age": 39,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA0238444",
+    "Name": "SeepirisettyNagavva",
+    "Father/Husband": "Bhumanna",
+    "Address": "1-14/5",
+    "Age": 37,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "MTF1334127",
+    "Name": "TirusuLingaiah",
+    "Father/Husband": "Posham",
+    "Address": "1-14/6",
+    "Age": 66,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA0777136",
+    "Name": "ThirsuNaganna",
+    "Father/Husband": "Lingaiah",
+    "Address": "1-14/6",
+    "Age": 46,
+    "Gender": "MALE"
+  },
+  {
+    "id": "MTF1334150",
+    "Name": "TirusuRajanna",
+    "Father/Husband": "Lingaiah",
+    "Address": "1-14/6",
+    "Age": 36,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA0777110",
+    "Name": "ArasuLavanya",
+    "Father/Husband": "Rajanna",
+    "Address": "1-14/6",
+    "Age": 31,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "MTF1333384",
+    "Name": "TirusuLachami",
+    "Father/Husband": "Naganna",
+    "Address": "1-14/7",
+    "Age": 39,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "MTF1330224",
+    "Name": "RagiHiresh",
+    "Father/Husband": "Ramkishtu",
+    "Address": "1-14/8",
+    "Age": 36,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA0238451",
+    "Name": "RagiSuneet",
+    "Father/Husband": "Hiresh",
+    "Address": "1-14/8",
+    "Age": 34,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "MTF3939311",
+    "Name": "MutteRjitha",
+    "Father/Husband": "Bhumaiah",
+    "Address": "1-14/8",
+    "Age": 31,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA1459156",
+    "Name": "AnushaSriramulaMotherSuvarnaSriramula",
+    "Father/Husband": "1-14/8",
+    "Address": 25,
+    "Age": "",
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "MTF3642097",
+    "Name": "MotapalkulaAnkavva",
+    "Father/Husband": "Lacchaiah",
+    "Address": "1-14/9",
+    "Age": 64,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2714731",
+    "Name": "RajamouliEmbadi",
+    "Father/Husband": "RajaiahEmbadi",
+    "Address": "1-15/1",
+    "Age": 36,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2320612",
+    "Name": "MamathaEmbadi",
+    "Father/Husband": "RajamouliEmbadi",
+    "Address": "1-15/1",
+    "Age": 27,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA0238469",
+    "Name": "MotapalkulaRajanna",
+    "Father/Husband": "MotapalkulaLacchaiah",
+    "Address": "1-14/9",
+    "Age": 39,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2325629",
+    "Name": "SwapnaPeram",
+    "Father/Husband": "RayamalluPeram",
+    "Address": "1-15/4",
+    "Age": 23,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2428035",
+    "Name": "AnushaPeram",
+    "Father/Husband": "RayamalluPeram",
+    "Address": "",
+    "Age": "",
+    "Gender": ""
+  },
+  {
+    "id": "RUA2427961",
+    "Name": "LaxmiPeram",
+    "Father/Husband": "ThirupathiPeram",
+    "Address": "1-15/5",
+    "Age": 37,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA0529842",
+    "Name": "MotapalukulaShankaramma",
+    "Father/Husband": "Lingaiah",
+    "Address": "1-16",
+    "Age": 68,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "MTF1330463",
+    "Name": "RagiRajavva",
+    "Father/Husband": "Ramkishtu",
+    "Address": "1-16",
+    "Age": 64,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2312668",
+    "Name": "BhumaiahMuthe",
+    "Father/Husband": "VaraiahMuthe",
+    "Address": "1-16",
+    "Age": 53,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2312627",
+    "Name": "LakshmiMuthe",
+    "Father/Husband": "BhoomaiahMuthe",
+    "Address": "1-16",
+    "Age": 53,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA0238477",
+    "Name": "MutaiVenkatSwami",
+    "Father/Husband": "Bhumaiah",
+    "Address": "1-16",
+    "Age": 32,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1010248",
+    "Name": "MutheMaalathi",
+    "Father/Husband": "Venkataswamy",
+    "Address": "1-16",
+    "Age": 26,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "MTF1334424",
+    "Name": "MahrajuLachami",
+    "Father/Husband": "Bhomaiah",
+    "Address": "1-16/1",
+    "Age": 40,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "MTF1330307",
+    "Name": "RagiSathaiah",
+    "Father/Husband": "Ramkishtu",
+    "Address": "1-16/1",
+    "Age": 40,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2115418",
+    "Name": "MohammadSadiqAhmed",
+    "Father/Husband": "MohammadAhmed",
+    "Address": "1-17",
+    "Age": 35,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1623017",
+    "Name": "VinoduKumarMaharaju",
+    "Father/Husband": "Bhumaiah",
+    "Address": "1-17/2",
+    "Age": 25,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2311785",
+    "Name": "RajuMaharaju",
+    "Father/Husband": "BhumannaMaharaju",
+    "Address": "1-17/2",
+    "Age": 21,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1623025",
+    "Name": "SrinivasDara",
+    "Father/Husband": "Pochaiah",
+    "Address": "1-18",
+    "Age": 45,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2840643",
+    "Name": "DaraMallavva",
+    "Father/Husband": "Pocaiah",
+    "Address": "1-19",
+    "Age": 63,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA0238485",
+    "Name": "DaraRajeshvari",
+    "Father/Husband": "Shrinivas",
+    "Address": "1-19",
+    "Age": 35,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA1121110",
+    "Name": "RajithaDhara",
+    "Father/Husband": "RameshDhara",
+    "Address": "1-19",
+    "Age": 27,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2840338",
+    "Name": "DaraNarsaiah",
+    "Father/Husband": "Ashalu",
+    "Address": "1-20/1",
+    "Age": 45,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2815843",
+    "Name": "DaraYeusumani",
+    "Father/Husband": "Narsaiah",
+    "Address": "1-20/1",
+    "Age": 41,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2815264",
+    "Name": "DaraLachavva",
+    "Father/Husband": "Aashalu",
+    "Address": "",
+    "Age": "",
+    "Gender": ""
+  },
+  {
+    "id": "RUA0238493",
+    "Name": "DaraBhagaylachami",
+    "Father/Husband": "DaraShekhar",
+    "Address": "1-20/2",
+    "Age": 34,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2840387",
+    "Name": "NennelaRajamallu",
+    "Father/Husband": "NennelaRaajaiah",
+    "Address": "1-21",
+    "Age": 65,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2841955",
+    "Name": "NennelaLachami",
+    "Father/Husband": "Rajamallu",
+    "Address": "1-21",
+    "Age": 61,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "MTF3939329",
+    "Name": "NennelaMogana",
+    "Father/Husband": "Sathanna",
+    "Address": "1-21",
+    "Age": 31,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA1324532",
+    "Name": "NareshNannela",
+    "Father/Husband": "RajamalluNannel",
+    "Address": "1-21",
+    "Age": 31,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1880525",
+    "Name": "PochaiahNennela",
+    "Father/Husband": "RajaiahNennela",
+    "Address": "1-22",
+    "Age": 69,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2839439",
+    "Name": "NennelaBhimakka",
+    "Father/Husband": "Pocaiah",
+    "Address": "1-22",
+    "Age": 63,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA1181825",
+    "Name": "PochaiahNennela",
+    "Father/Husband": "RajamNennela",
+    "Address": "1-22",
+    "Age": 55,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1181841",
+    "Name": "SandeepNennala",
+    "Father/Husband": "PochaihNennala",
+    "Address": "1-22",
+    "Age": 26,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1809260",
+    "Name": "SrinivasNennela",
+    "Father/Husband": "LasmaiahNennela",
+    "Address": "1-23",
+    "Age": 27,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2778348",
+    "Name": "HarishNennela",
+    "Father/Husband": "LasmaiahNennela",
+    "Address": "1-23",
+    "Age": 20,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2841948",
+    "Name": "NennelaLachami",
+    "Father/Husband": "Narsaiah",
+    "Address": "1-24",
+    "Age": 55,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA1010263",
+    "Name": "NarasaiahNennala",
+    "Father/Husband": "RajaiahNennala",
+    "Address": "1-24",
+    "Age": 54,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA2839363",
+    "Name": "NennelaMahesh",
+    "Father/Husband": "Narsaiah",
+    "Address": "",
+    "Age": "",
+    "Gender": ""
+  },
+  {
+    "id": "RUA2743631",
+    "Name": "NennelaGireekka",
+    "Father/Husband": "Chandraiah",
+    "Address": "1-27",
+    "Age": 61,
+    "Gender": "FEMALE"
+  },
+  {
+    "id": "RUA2320653",
+    "Name": "ChandraiahNennala",
+    "Father/Husband": "RajamNennala",
+    "Address": "1-27",
+    "Age": 56,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1742338",
+    "Name": "VenkateshamNennela",
+    "Father/Husband": "ChandraiahNennela",
+    "Address": "1-27",
+    "Age": 31,
+    "Gender": "MALE"
+  },
+  {
+    "id": "RUA1324706",
+    "Name": "MadhukarNannela",
+    "Father/Husband": "ChandraiahNannela",
+    "Address": "1-27",
+    "Age": 26,
+    "Gender": "MALE"
+  }
+]

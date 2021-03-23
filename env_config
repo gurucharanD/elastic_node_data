@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# ENV Defines
+
+#Include simple key/value defines here to be used in bin/ scripts and Make
+DOCKER_REG=users
+SERVICE_NAME=data
+NODE_DOCKER_VERSION=42

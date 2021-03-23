@@ -1,0 +1,31 @@
+{
+    "settings": {
+        "index.max_result_window": 50000,
+        "index.mapping.total_fields.limit": 2000,
+        "number_of_shards": 5,
+        "number_of_replicas": 1
+    },
+    "mappings": {
+        "dynamic": false,
+        "properties": {
+            "id": {
+                "type": "keyword"
+            },
+            "Name": {
+                "type": "text"
+            },
+            "Father/Husband": {
+                "type": "text"
+            },
+            "Address": {
+                "type": "text"
+            },
+            "Age": {
+                "type": "integer"
+            },
+            "Gender": {
+                "type": "keyword"
+            }
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    "removeComments": false,
+    "baseUrl": "./src",
+    "outDir": "dist",
+    "inlineSources": false,
+    "module": "commonjs",
+    "target": "ES5",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "checkJs": false,
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "declaration": false,
+    // "inlineSourceMap": true,
+    "types": [
+      "node",
+      "mocha"
+    ],
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "lib": [
+      "es2015",
+      "es2017",
+      "es2018"
+    ]
+  },
+  "include": [
+    "./src/**/*.ts",
+    "./src/db/migrations/*.js",
+    "./src/db/es_migrations/*.json",
+    "./src/Data/*.json"
+  ],
+  "exclude": [
+    "coverage",
+    "node_modules",
+    "!node_modules/@types"
+  ]
+}

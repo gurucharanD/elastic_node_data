@@ -1,0 +1,28 @@
+{
+  "extension": [
+    ".ts"
+  ],
+  "include": [
+    "src/**/*.ts",
+    "src/*.ts"
+  ],
+  "exclude": [
+    "src/index.ts",
+    "src/appService.ts",
+    "src/db/migrations/**/*.ts",
+    "src/db/models/**/*.ts"
+  ],
+  "all": true,
+  "reporter": [
+    "cobertura",
+    "html",
+    "lcov",
+    "text",
+    "text-summary"
+  ],
+  "require": [
+    "ts-node/register"
+  ],
+  "sourceMap": true,
+  "report-dir": "./coverage"
+}
