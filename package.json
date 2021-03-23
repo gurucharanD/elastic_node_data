@@ -28,7 +28,8 @@
     "knex": "~0.21.8",
     "lodash.clonedeep": "~4.5.0",
     "lodash.set": "~4.3.2",
-    "mysql2": "~2.2.5"
+    "mysql2": "~2.2.5",
+    "jsonfile": "~5.0.0"
   },
   "devDependencies": {
     "@types/bookshelf": "~0.9.1",
