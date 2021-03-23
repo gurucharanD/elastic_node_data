@@ -4,8 +4,7 @@
   "description": "usersdata node repo",
   "main": "dist/src/index.js",
   "repository": {
-    "type": "git",
-    "url": "https://berkadiadevops.visualstudio.com/usersdata/_git/usersdata-nodejs-polarisPlatform"
+    "type": "git"
   },
   "keywords": [
     "muS",
@@ -26,7 +25,6 @@
     "express-boom": "~1.0.0",
     "express-pino-logger": "~1.1.0",
     "joi": "~17.2.1",
-    "jsonfile": "~5.0.0",
     "knex": "~0.21.8",
     "lodash.clonedeep": "~4.5.0",
     "lodash.set": "~4.3.2",
