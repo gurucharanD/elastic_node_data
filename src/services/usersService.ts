@@ -60,6 +60,21 @@ class UsersService {
         }
     }
 
+    public async fetchAllUsers() {
+        try {
+            let query = {
+                "size": 9999,
+                "sort": [{
+                    "Age": "asc"
+                }]
+            };
+            let data = await this.esService.searchAndFilterHits('users', query);
+            return data;
+        } catch (e) {
+
+        }
+    }
+
 }
 
 const usersService = new UsersService();

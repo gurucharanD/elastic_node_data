@@ -53,6 +53,18 @@ router.post('/search', async (req: any, res: any) => {
     }
 });
 
+router.post('/fetchall', async (req: any, res: any) => {
+
+    try {
+        let response = await usersService.fetchAllUsers();
+        res.send({
+            response
+        })
+    } catch (error) {
+        res.boom.badData('error->', error);
+    }
+});
+
 
 
 
