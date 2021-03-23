@@ -3,7 +3,7 @@ import {
   Log,
 } from './log';
 
-export class ESService {
+class ESService {
 
   public async checkExistingDataIndex(id, context, index, type) {
 
@@ -101,7 +101,6 @@ export class ESService {
   }
 
   public async indexData(indexData) {
-
     try {
       if (Object.entries(indexData).length === 0) {
         return null;

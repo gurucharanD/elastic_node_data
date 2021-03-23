@@ -12,13 +12,16 @@
                 "type": "keyword"
             },
             "Name": {
-                "type": "text"
+                "type": "text",
+                "analyzer": "standard"
             },
             "Father/Husband": {
-                "type": "text"
+                "type": "text",
+                "analyzer": "standard"
             },
             "Address": {
-                "type": "text"
+                "type": "text",
+                "analyzer": "standard"
             },
             "Age": {
                 "type": "integer"
